@@ -28,6 +28,8 @@ redirect_from:
 - *2023.07*: &nbsp;🎉🎉 [NVDS](https://raymondwang987.github.io/NVDS/) and [DMVSNet](https://www.semanticscholar.org/paper/Constraining-Depth-Map-Geometry-for-Multi-View-A-Ye-Zhao/350cfa21e6c7f4ac778d84126e53aacf924bf067) are accepted to ICCV 2023. 
 
 # 📝 Publications 
+(\* denotes equal contribution.)
+
 <!-- 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2023</div><img src='images/simhmr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
