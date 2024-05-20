@@ -43,7 +43,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2023</div><img src='images/DiffDepth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diffusion-augmented depth prediction with sparse annotations](https://dl.acm.org/doi/abs/10.1145/3581783.3611807)
+[Diffusion-augmented Depth Prediction with Sparse Annotations](https://dl.acm.org/doi/abs/10.1145/3581783.3611807)
 
 Jiaqi Li, Yiran Wang, **Zihao Huang**, Jinghong Zheng, Ke Xian, Zhiguo Cao, Jianming Zhang
 </div></div>
