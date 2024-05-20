@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Zihao Huang"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -20,12 +20,12 @@ redirect_from:
  I am a first year (2023.09-) master's student in Artificial Intelligence at Huazhong University of Science and Technology, supervised by Prof. [Zhiguo Cao](http://english.aia.hust.edu.cn/info/1030/1072.htm). I obtained my bachelor degree in Artificial Intelligence at Huazhong University of Science and Technology in 2023. Throughout my undergraduate years, I remained
  dedicated to my studies, achieving notable GPA and various honors.
  
- My current research interests is 3D avatars, working on fast and high-quality 3D human reconstructions. To achieve this, my current main research areas include Human Mesh Reconstruction (HMR), Neural Radiance Field (NeRF), and 3D Gaussian Splatting (3D-GS).
+ My current research interests is 3D avatars, working on fast and high-quality 3D human reconstructions. To achieve this, my current main research areas include Human Reconstruction and Human Pose & Shape Estimation (HPS).
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2023.09*: &nbsp;🎉🎉 Two papers are accepted to ACM MM 2023.
+- *2023.07*: &nbsp;🎉🎉 [NVDS](https://raymondwang987.github.io/NVDS/) and [DMVSNet](https://www.semanticscholar.org/paper/Constraining-Depth-Map-Geometry-for-Multi-View-A-Ye-Zhao/350cfa21e6c7f4ac778d84126e53aacf924bf067) are accepted to ICCV 2023. 
 
 # 📝 Publications 
 <!-- 1 -->
@@ -43,7 +43,7 @@ redirect_from:
 
 [Diffusion-augmented depth prediction with sparse annotations](https://dl.acm.org/doi/abs/10.1145/3581783.3611807)
 
-Jiaqi Li, Yiran Wang, *Zihao Huang**, Jinghong Zheng, Ke Xian, Zhiguo Cao, Jianming Zhang
+Jiaqi Li, Yiran Wang, **Zihao Huang**, Jinghong Zheng, Ke Xian, Zhiguo Cao, Jianming Zhang
 </div></div>
 
 <!-- 3 -->
