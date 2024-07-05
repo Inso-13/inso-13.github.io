@@ -24,13 +24,24 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 [WildAvatar](https://wildavatar.github.io/) is now on ArXiv.
 - *2023.09*: &nbsp;🎉🎉 Two papers are accepted to ACM MM 2023.
 - *2023.07*: &nbsp;🎉🎉 [NVDS](https://raymondwang987.github.io/NVDS/) and [DMVSNet](https://www.semanticscholar.org/paper/Constraining-Depth-Map-Geometry-for-Multi-View-A-Ye-Zhao/350cfa21e6c7f4ac778d84126e53aacf924bf067) are accepted to ICCV 2023. 
 
 # 📝 Publications 
 (\* denotes equal contribution.)
 
+
 <!-- 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation](https://wildavatar.github.io/)
+
+**Zihao Huang**, Shoukang Hu, Guangcong Wang, Tianqi Liu, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu
+</div></div>
+
+<!-- 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2023</div><img src='images/simhmr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,7 +50,7 @@ redirect_from:
 **Zihao Huang\***, Min Shi\*, Chengxin Liu, Ke Xian, Zhiguo Cao
 </div></div>
 
-<!-- 2 -->
+<!-- 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2023</div><img src='images/DiffDepth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +59,7 @@ redirect_from:
 Jiaqi Li, Yiran Wang, **Zihao Huang**, Jinghong Zheng, Ke Xian, Zhiguo Cao, Jianming Zhang
 </div></div>
 
-<!-- 3 -->
+<!-- 4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/DMVSNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,7 +68,7 @@ Jiaqi Li, Yiran Wang, **Zihao Huang**, Jinghong Zheng, Ke Xian, Zhiguo Cao, Jian
 Xinyi Ye, Weiyue Zhao, Tianqi Liu, **Zihao Huang**, Zhiguo Cao, Xin Li
 </div></div>
 
-<!-- 4 -->
+<!-- 5 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/NVDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,7 +77,7 @@ Xinyi Ye, Weiyue Zhao, Tianqi Liu, **Zihao Huang**, Zhiguo Cao, Xin Li
 Yiran Wang, Min Shi, Jiaqi Li, **Zihao Huang**, Zhiguo Cao
 </div></div>
 
-<!-- 5 -->
+<!-- 6 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023 (highlight)</div><img src='images/capeformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
