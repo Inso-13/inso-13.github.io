@@ -1,0 +1,3 @@
+😃 Welcome to my personal page!
+
+I am Zihao Huang, a first year (2023.09-) master's student in Artificial Intelligence at Huazhong University of Science and Technology, supervised by Prof. [Zhiguo Cao](http://english.aia.hust.edu.cn/info/1030/1072.htm). I obtained my bachelor degree in Artificial Intelligence at Huazhong University of Science and Technology in 2023. My current research interests is 3D avatars, working on fast and high-quality 3D human reconstructions. To achieve this, my current main research areas include 3D Avatar Creation and 3D Human Pose & Shape Estimation (HPS).
