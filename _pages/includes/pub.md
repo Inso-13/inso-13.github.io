@@ -14,7 +14,7 @@
 [[Paper]](https://arxiv.org/pdf/2407.02165)
 [[Code]](https://github.com/wildavatar/WildAvatar_Toolbox)
 [[Data]](https://zenodo.org/record/11526806/files/WildAvatar.zip)
-[[Video]](https://youtu.be/6FHgKrQeeGQ)
+[[Video]](https://youtu.be/T-XafMVKY7E)
 
 </div></div>
 
