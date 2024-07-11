@@ -64,7 +64,7 @@ Xinyi Ye, Weiyue Zhao, Tianqi Liu, **Zihao Huang**, Zhiguo Cao, Xin Li
 
 [Neural Video Depth Stabilizer](https://raymondwang987.github.io/NVDS/)
 
-Yiran Wang, Min Shi, Jiaqi Li, **Zihao Huang**, Zhiguo Cao
+Yiran Wang, Min Shi, Jiaqi Li, **Zihao Huang**, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin
 
 [[Project Page]](https://raymondwang987.github.io/NVDS/)
 [[Paper]](https://arxiv.org/pdf/2307.086955)
