@@ -2,7 +2,23 @@
 (\* denotes equal contribution.)
 
 
-<!-- 1 -->
+<!-- 8 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/NVDS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation](https://raymondwang987.github.io/NVDS/)
+
+Yiran Wang, Min Shi, Jiaqi Li, Chaoyi Hong, **Zihao Huang**, Juewen Peng, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin
+
+[[Project Page]](https://raymondwang987.github.io/NVDS/)
+[[Paper]](https://arxiv.org/pdf/2307.08695)
+[[Code]](https://github.com/RaymondWang987/NVDS)
+[[Data]](https://raymondwang987.github.io/VDW/)
+[[Video]](https://youtu.be/SNV9F-60xrE)
+
+</div></div>
+
+<!-- 7 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -18,7 +34,22 @@
 
 </div></div>
 
-<!-- 2 -->
+<!-- 6 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/gefu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields](https://gefucvpr24.github.io/)
+
+Tianqi Liu, Xinyi Ye, Min Shi, **Zihao Huang**, Zhiyu Pan, Zhan Peng, Zhiguo Cao
+
+[[Project Page]](https://gefucvpr24.github.io/)
+[[Paper]](https://arxiv.org/abs/2404.17528)
+[[Code]](https://github.com/TQTQliu/GeFu)
+[[Video]](https://www.bilibili.com/video/BV1zy411z7aE)
+
+</div></div>
+
+<!-- 5 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2023</div><img src='images/simhmr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -32,7 +63,7 @@
 
 </div></div>
 
-<!-- 3 -->
+<!-- 4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2023</div><img src='images/DiffDepth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,7 +76,7 @@ Jiaqi Li, Yiran Wang, **Zihao Huang**, Jinghong Zheng, Ke Xian, Zhiguo Cao, Jian
 
 </div></div>
 
-<!-- 4 -->
+<!-- 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/DMVSNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,7 +89,7 @@ Xinyi Ye, Weiyue Zhao, Tianqi Liu, **Zihao Huang**, Zhiguo Cao, Xin Li
 
 </div></div>
 
-<!-- 5 -->
+<!-- 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/NVDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,14 +98,14 @@ Xinyi Ye, Weiyue Zhao, Tianqi Liu, **Zihao Huang**, Zhiguo Cao, Xin Li
 Yiran Wang, Min Shi, Jiaqi Li, **Zihao Huang**, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin
 
 [[Project Page]](https://raymondwang987.github.io/NVDS/)
-[[Paper]](https://arxiv.org/pdf/2307.086955)
+[[Paper]](https://arxiv.org/pdf/2307.08695)
 [[Code]](https://github.com/RaymondWang987/NVDS)
 [[Data]](https://raymondwang987.github.io/VDW/)
 [[Video]](https://youtu.be/SNV9F-60xrE)
 
 </div></div>
 
-<!-- 6 -->
+<!-- 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023 (highlight)</div><img src='images/capeformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
