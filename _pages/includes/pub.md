@@ -1,8 +1,23 @@
 # 📝 Publications 
 (\* denotes equal contribution.)
 
-
 <!-- 8 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WildAvatar: Learning In-the-wild 3D Avatars from the Web](https://wildavatar.github.io/)
+
+**Zihao Huang**, Shoukang Hu, Guangcong Wang, Tianqi Liu, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu
+
+[[Project Page]](https://wildavatar.github.io/)
+[[Paper]](https://arxiv.org/pdf/2407.02165)
+[[Code]](https://github.com/wildavatar/WildAvatar_Toolbox)
+[[Data]](https://zenodo.org/record/11526806/files/WildAvatar.zip)
+[[Video]](https://youtu.be/T-XafMVKY7E)
+
+</div></div>
+
+<!-- 7 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/NVDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -15,22 +30,6 @@ Yiran Wang, Min Shi, Jiaqi Li, Chaoyi Hong, **Zihao Huang**, Juewen Peng, Zhiguo
 [[Code]](https://github.com/RaymondWang987/NVDS)
 [[Data]](https://raymondwang987.github.io/VDW/)
 [[Video]](https://youtu.be/SNV9F-60xrE)
-
-</div></div>
-
-<!-- 7 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation](https://wildavatar.github.io/)
-
-**Zihao Huang**, Shoukang Hu, Guangcong Wang, Tianqi Liu, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu
-
-[[Project Page]](https://wildavatar.github.io/)
-[[Paper]](https://arxiv.org/pdf/2407.02165)
-[[Code]](https://github.com/wildavatar/WildAvatar_Toolbox)
-[[Data]](https://zenodo.org/record/11526806/files/WildAvatar.zip)
-[[Video]](https://youtu.be/T-XafMVKY7E)
 
 </div></div>
 
