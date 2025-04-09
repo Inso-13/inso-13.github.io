@@ -1,6 +1,19 @@
 # 📝 Publications 
 (\* denotes equal contribution.)
 
+<!-- 9 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/free4d.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/)
+
+Tianqi Liu\*, **Zihao Huang\***, Zhaoxi Chen, Guangcong Wang, Shoukang Hu, Liao Shen, Huiqiang Sun, Zhiguo Cao, Wei Li, Ziwei Liu
+
+[[Project Page]](https://free4d.github.io/)
+[[Paper]](https://arxiv.org/pdf/2503.20785)
+[[Code]](https://github.com/TQTQliu/Free4D)
+[[Video]](https://youtu.be/GpHnoSczlhA)
+
 <!-- 8 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
