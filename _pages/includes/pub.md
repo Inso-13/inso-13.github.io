@@ -14,6 +14,8 @@ Tianqi Liu\*, **Zihao Huang\***, Zhaoxi Chen, Guangcong Wang, Shoukang Hu, Liao 
 [[Code]](https://github.com/TQTQliu/Free4D)
 [[Video]](https://youtu.be/GpHnoSczlhA)
 
+</div></div>
+
 <!-- 8 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
