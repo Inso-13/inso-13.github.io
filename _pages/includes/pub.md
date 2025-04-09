@@ -2,7 +2,7 @@
 (\* denotes equal contribution.)
 
 <!-- 9 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/free4d.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/free4d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/)
