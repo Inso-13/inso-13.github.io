@@ -1,8 +1,20 @@
 # 📝 Publications 
 (\* denotes equal contribution.)
 
+<!-- 10 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mugs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction](https://arxiv.org/abs/2508.04297/)
+
+Yaopeng Lou, Liao Shen, Tianqi Liu, Jiaqi Li, **Zihao Huang**, Huiqiang Sun, Zhiguo Cao
+
+[[Paper]](https://arxiv.org/pdf/2508.04297)
+
+</div></div>
+
 <!-- 9 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/free4d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/free4d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/)
