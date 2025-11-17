@@ -1,6 +1,21 @@
 # 📝 Publications 
 (\* denotes equal contribution.)
 
+<!-- 11 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2026</div><img src='images/gaussianart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects](https://sainingzhang.github.io/project/gaussianart/)
+
+Licheng Shen\*, Saining Zhang\*, Honghan Li\*, Peiling Yang, **Zihao Huang**, Zongzheng Zhang, Hao Zhao
+
+[[Project Page]](https://sainingzhang.github.io/project/gaussianart/)
+[[Paper]](https://arxiv.org/abs/2508.14891)
+[[Code]](https://github.com/shenlc19/GaussianArt)
+[[Data]](https://huggingface.co/datasets/LiCheng23/MPArt-90)
+
+</div></div>
+
 <!-- 10 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mugs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
