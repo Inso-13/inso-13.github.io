@@ -1,6 +1,34 @@
 # 📝 Publications 
 (\* denotes equal contribution.)
 
+<!-- 13 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/cinectrl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CineCtrl: Generative Photographic Control for Scene-Consistent Video Cinematic Editing](https://arxiv.org/abs/2511.12921)
+
+Huiqiang Sun, Liao Shen, Zhan Peng, Kun Wang, Size Wu, Yuhang Zang, Tianqi Liu, **Zihao Huang**, Xingyu Zeng, Zhiguo Cao, Wei Li, Chen Change Loy
+
+[[Paper]](https://arxiv.org/abs/2511.12921)
+[[Code]](https://github.com/huiqiang-sun/CineCtrl)
+
+</div></div>
+
+<!-- 12 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/lightx.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Light-X: Generative 4D Video Rendering with Camera and Illumination Control](https://lightx-ai.github.io/)
+
+Tianqi Liu, Zhaoxi Chen, **Zihao Huang**, Shaocong Xu, Saining Zhang, Chongjie Ye, Bohan Li, Zhiguo Cao, Wei Li, Hao Zhao, Ziwei Liu
+
+[[Project Page]](https://lightx-ai.github.io/)
+[[Paper]](https://arxiv.org/abs/2512.05115)
+[[Code]](https://github.com/TQTQliu/Light-X)
+[[Video]](https://youtu.be/ui9Lg2H--0c)
+
+</div></div>
+
 <!-- 11 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2026</div><img src='images/gaussianart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
