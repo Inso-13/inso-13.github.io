@@ -121,14 +121,24 @@
 
 .author__name {
   margin: 0;
+  display: inline-block;
+  text-align: center;
+  line-height: 1.3;
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 10px;
   }
 }
 
+.author__name-zh {
+  display: block;
+  margin-top: 0.2em;
+}
+
 .sidebar .author__name {
+  @include breakpoint($large) {
+    margin-bottom: 22px;
+  }
   @include breakpoint($medium) {
     font-size: $type-size-3;
   }
