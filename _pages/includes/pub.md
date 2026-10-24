@@ -1,6 +1,37 @@
 # 📝 Publications 
 &#42; <em>equal contributions.</em> &nbsp; † <em>project lead.</em> &nbsp; ✉ <em>corresponding author.</em>
 
+<!-- Gate3DGen -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/gate3dgen.png' alt="Gate3DGen overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation](https://supra-3d.github.io/gate3dgen/)
+
+Xiaolin Li<sup class="equal-contribution">&#42;</sup>, **Zihao Huang**<sup class="equal-contribution">&#42;</sup>, Fanpeng Meng, Chen Yang, Guanjun Wu, Kai Zhang<sup>✉</sup>, Jiemin Fang<sup>†✉</sup>, Qi Tian<sup>✉</sup>
+
+[[Project Page]](https://supra-3d.github.io/gate3dgen/)
+[[Paper]](https://arxiv.org/abs/2610.31649)
+[[Code]](https://github.com/Supra-3D/gate3dgen)
+[[Video]](https://supra-3d.github.io/gate3dgen/#demo-video)
+
+</div></div>
+
+<!-- SUPRA-Tex -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/supratex.png' alt="SUPRA-Tex aircraft example" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SUPRA-Tex: 3D Generation with Super-Aligned Texture](https://supra-3d.github.io/supratex/)
+
+Chen Yang<sup class="equal-contribution">&#42;</sup>, Jiemin Fang<sup class="equal-contribution">&#42;</sup><sup>†✉</sup>, Fanpeng Meng<sup class="equal-contribution">&#42;</sup>, **Zihao Huang**, Jichen Pang, Guanjun Wu, Zhikuan Bao, Qi Tian<sup>✉</sup>
+
+[[Project Page]](https://supra-3d.github.io/supratex/)
+[[Paper]](https://arxiv.org/abs/2610.22352)
+[[Code]](https://github.com/Supra-3D/supra-tex)
+[[Demo]](https://huggingface.co/spaces/UniLat3D/Supra-Tex)
+[[Video]](https://youtu.be/3VoaL-YxLMc)
+
+</div></div>
+
 <!-- ArtHOI -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/arthoi.png' alt="ArtHOI overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
