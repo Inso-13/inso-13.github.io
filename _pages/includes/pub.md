@@ -1,6 +1,21 @@
 # 📝 Publications 
 &#42; <em>equal contributions.</em> &nbsp; † <em>project lead.</em> &nbsp; ✉ <em>corresponding author.</em>
 
+<!-- ArtHOI -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/arthoi.png' alt="ArtHOI overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors](https://arthoi.github.io/)
+
+**Zihao Huang**, Tianqi Liu, Zhaoxi Chen, Shaocong Xu, Saining Zhang, Lixing Xiao, Zhiguo Cao, Wei Li, Hao Zhao<sup>✉</sup>, Ziwei Liu<sup>✉</sup>
+
+[[Project Page]](https://arthoi.github.io/)
+[[Paper]](https://arxiv.org/abs/2603.04338)
+[[Code]](https://github.com/Inso-13/ArtHOI)
+[[Video]](https://youtu.be/0gzpn4AKJBM)
+
+</div></div>
+
 <!-- 13 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/cinectrl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
